@@ -7,7 +7,7 @@ public class HelloWorld {
 		
 		System.out.println("Hello World 1");
 		
-		System.out.println("Hello World 1 by Jyoti Iyer and Jitender Kumars");
+		System.out.println("Hello World 1 by Jyoti Iyer version2 ");
 
 	}
 
