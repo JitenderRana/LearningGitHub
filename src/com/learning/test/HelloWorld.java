@@ -36,5 +36,10 @@ public class HelloWorld {
 	{
 		System.out.println("Happy BirthDay!!");
 	}
+	
+	public void softness()
+	{
+		System.out.println("Height of softness!!! It is really !!! ");
+	}
 
 }
