@@ -26,5 +26,11 @@ public class HelloWorld {
 	{
 		System.out.println("Hello world");
 	}
+	
+	public void doNotSay()
+	{
+		System.out.println("......");
+	}
+	
 
 }
