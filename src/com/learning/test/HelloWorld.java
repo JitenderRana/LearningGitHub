@@ -31,6 +31,10 @@ public class HelloWorld {
 	{
 		System.out.println("......");
 	}
-	
+
+	public void wishHBD()
+	{
+		System.out.println("Happy BirthDay!!");
+	}
 
 }
