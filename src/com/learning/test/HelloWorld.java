@@ -18,8 +18,8 @@ public class HelloWorld {
 			System.out.println("HBJ");
 		}
 		
-		System.out.println("blocked");
-
+		System.out.println("blocked");		
+		System.out.println("HAJ");
 	}
 
 }
