@@ -46,5 +46,10 @@ public class HelloWorld {
 	{
 		System.out.println("HFD Greeting Card !!! ");
 	}
+	
+	public void DGC()
+	{
+		System.out.println("DGC Started !!! ");
+	}
 
 }
