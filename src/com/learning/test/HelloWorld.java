@@ -51,5 +51,10 @@ public class HelloWorld {
 	{
 		System.out.println("DGC Started !!! ");
 	}
+	public void HAN()
+	{
+		System.out.println("HAN Message !!! ");
+
+	}
 
 }
