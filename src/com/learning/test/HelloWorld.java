@@ -41,5 +41,10 @@ public class HelloWorld {
 	{
 		System.out.println("Height of softness!!! It is really !!! ");
 	}
+	
+	public void HFD()
+	{
+		System.out.println("HFD Greeting Card !!! ");
+	}
 
 }
