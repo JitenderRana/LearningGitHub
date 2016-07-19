@@ -21,5 +21,10 @@ public class HelloWorld {
 		System.out.println("blocked");		
 		System.out.println("HAJ");
 	}
+	
+	public void sayHello()
+	{
+		System.out.println("Hello world");
+	}
 
 }
